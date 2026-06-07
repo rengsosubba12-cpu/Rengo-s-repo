@@ -3,3 +3,4 @@ mkdir name to make new directory
 git init to make a new repo 
 git remote add originn <-link->
 git branch -M main
+pr = pull  request ...in github 
