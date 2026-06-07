@@ -1,1 +1,5 @@
 cd ..  for going out of the directory 
+mkdir name to make new directory 
+git init to make a new repo 
+git remote add originn <-link->
+git branch -M main
