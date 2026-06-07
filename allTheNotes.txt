@@ -1,0 +1,1 @@
+cd ..  for going out of the directory 

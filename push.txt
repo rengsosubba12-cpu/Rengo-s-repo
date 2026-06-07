@@ -1,0 +1,1 @@
+git push origin main ....to push the code from local device to the github
