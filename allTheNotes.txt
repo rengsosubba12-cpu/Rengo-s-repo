@@ -4,3 +4,4 @@ git init to make a new repo
 git remote add originn <-link->
 git branch -M main
 pr = pull  request ...in github 
+git push ...to push all changes to the github
